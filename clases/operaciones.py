@@ -11,3 +11,4 @@ dividir  =  numeroA  /  numeroB
 print (  "la dividir dio { dividir } exitosamente" )
 exponente  =  numeroA ** numeroB
 print (  "la exponente dio { exponente } exitosamente" )
+#estudiarlos 
