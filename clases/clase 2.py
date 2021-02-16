@@ -24,4 +24,4 @@ print (ispesodiferente)
 apellido = "bustamante"
 isapellido = apellido in NOMBRE 
 print ("#"*15,"apellido en nombre", "#"*15)
-print (isapellido) 
+print (isapellido)
