@@ -67,8 +67,7 @@ while (opcion !=4):
             print (listafahrenheit)
         elif (conversion == 'k'):
             print (listakelin)
-        else:,
-            print (mensajeerrormen)
+        else: (mensajeerrormen)
     elif (opcion == 2):
         print (mensajeeleccion.format(2))
         (listaclasificacion)

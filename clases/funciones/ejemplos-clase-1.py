@@ -1,16 +1,16 @@
 guardar = print('hola')
-print (guardar)
-
-guardar = round(14.342345452)
 print(guardar)
 
-def linedesign(cantidad,patron ): 
-    print('#'*cantidad*cantidad)
+guardar = round(14.2534897,2)
+print(guardar)
+
+def linedesign(cantidad = 10, simbolo = '#'):
+    print(simbolo *cantidad)
     return None
 
-linedesign ( 7 , '#' )
-linedesign ( 10 , '*' )
-linedesign ( 15 , '♦' )
+linedesign(30,'#')
+linedesign(10,'*')
+linedesign(100,'♦')
 
 
 #----------Muestre la lista -----------#
