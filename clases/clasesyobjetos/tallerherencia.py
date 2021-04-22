@@ -1,31 +1,3 @@
-# class Humano():
-#     def __init__(self, nombreEntrada,edadEntrada,estaturaEntrada):
-#         print('hola sou un humano nuevo')
-#         self.raza = 'humano'
-#         self.nombre = nombreEntrada
-#         self.edad = edadEntrada
-#         self.estatura = estaturaEntrada
-    
-#     def hablar (self,mensaje):
-#         print('hola tengo un mensaje que decirte...', mensaje)
-#     def MostrarAtributos (self):
-#         print(f'''mi nombre es{self.nombre} mi estatura es{self.estatura}
-#         mi edad es {self.edad}''')
-
-# humano1 = Humano('cristian',20, 1.74) 
-# humano2 = Humano('sara', 13,1.61 ) 
-
-# humano1.hablar('estoy vivo')
-# humano2.hablar('yo tambien lo estoy')
-
-# humano1.MostrarAtributos()
-# humano2.MostrarAtributos()
-# print (humano1.nombre)
-# print (humano1.edad)
-# print (humano2.nombre)
-# print (humano2.edad)
-
-
 
 class Personas ():
     def __init__(self, nombreEntrada,edadEntrada,idEntrada):
